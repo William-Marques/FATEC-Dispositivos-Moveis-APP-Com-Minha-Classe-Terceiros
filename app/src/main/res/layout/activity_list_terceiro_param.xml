@@ -16,10 +16,10 @@
         android:layout_height = "wrap_content"
         android:inputType = "text" />
     <Button
-        android:id = "@+id/btpesquisar"
+        android:id = "@+id/btpesquisarterceiro"
         android:layout_width = "match_parent"
         android:layout_height = "wrap_content"
-        android:text = "@string/btpesquisar" />
+        android:text = "@string/btpesquisarTerceiros" />
     <ListView
         android:id="@+id/listater"
         android:layout_width="match_parent"

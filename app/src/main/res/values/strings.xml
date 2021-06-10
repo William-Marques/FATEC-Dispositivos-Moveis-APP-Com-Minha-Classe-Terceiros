@@ -12,11 +12,9 @@
     <string name="action_settings">Settings</string>
     <string name="btentrar">Entrar</string>
     <string name="btlistarTodos">Listar Todos Usuarios</string>
-    <string name="btlistarTodosTerceiros">Listar Todos Terceiros</string>
     <string name="btlistarParam">Listar Parametros dos Usuarios</string>
-    <string name="btlistarParamTerceiros">Listar Parametros dos Terceiros</string>
     <string name="btpesquisar">Pesquisar Usuario</string>
-    <string name="btpesquisarTerceiros">Pesquisar Terceiros</string>
+
     <string name="btinserir">Inserir</string>
     <string name="btalterar">Alterar</string>
     <string name="btexcluir">Excluir</string>
@@ -38,8 +36,9 @@
     <string name="lbtelefone">Telefone</string>
     <string name="lbemail">Email</string>
     <string name="btinserirterceiro">Inserir Terceiro</string>
-
-
+    <string name="btpesquisarTerceiros">Pesquisar Terceiros</string>
+    <string name="btlistarParamTerceiros">Listar Terceiros por Parametros</string>
+    <string name="btlistarTodosTerceiros">Listar Todos Terceiros</string>
     <string name="lbusuariologado">Usuario Logado</string>
     <string name="lbvazio1"></string>
     <string name="lbvazio2"></string>

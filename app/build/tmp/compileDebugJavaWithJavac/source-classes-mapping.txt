@@ -1,15 +1,14 @@
 com/example/fatecmobile/telas/usuario/AddUsuActivity.java
  com.example.fatecmobile.telas.usuario.AddUsuActivity
  com.example.fatecmobile.telas.usuario.AddUsuActivity$1
-com/example/fatecmobile/telas/terceiro/ListTerceiroActivity.java
- com.example.fatecmobile.telas.terceiro.ListTerceiroActivity
+com/example/fatecmobile/BuildConfig.java
+ com.example.fatecmobile.BuildConfig
 com/example/fatecmobile/databinding/ActivityAddUsuBinding.java
  com.example.fatecmobile.databinding.ActivityAddUsuBinding
 com/example/fatecmobile/databinding/ActivityListUsuBinding.java
  com.example.fatecmobile.databinding.ActivityListUsuBinding
-com/example/fatecmobile/telas/terceiro/ListTerceiroParamActivity.java
- com.example.fatecmobile.telas.terceiro.ListTerceiroParamActivity
- com.example.fatecmobile.telas.terceiro.ListTerceiroParamActivity$1
+com/example/fatecmobile/telas/usuario/ListUsuActivity.java
+ com.example.fatecmobile.telas.usuario.ListUsuActivity
 com/example/fatecmobile/databinding/ActivityUptTerceiroBinding.java
  com.example.fatecmobile.databinding.ActivityUptTerceiroBinding
 com/example/fatecmobile/dbs/BancoHelper.java
@@ -35,8 +34,8 @@ com/example/fatecmobile/telas/LoginActivity.java
  com.example.fatecmobile.telas.LoginActivity
  com.example.fatecmobile.telas.LoginActivity$1
  com.example.fatecmobile.telas.LoginActivity$2
-com/example/fatecmobile/dbs/ControllerTerceiro.java
- com.example.fatecmobile.dbs.ControllerTerceiro
+com/example/fatecmobile/databinding/ActivityListTerceiroBinding.java
+ com.example.fatecmobile.databinding.ActivityListTerceiroBinding
 com/example/fatecmobile/databinding/ActivityLoginBinding.java
  com.example.fatecmobile.databinding.ActivityLoginBinding
 com/example/fatecmobile/databinding/ActivityAddTerceiroBinding.java
@@ -45,24 +44,25 @@ com/example/fatecmobile/databinding/ActivityListTerceiroParamBinding.java
  com.example.fatecmobile.databinding.ActivityListTerceiroParamBinding
 com/example/fatecmobile/databinding/ActivityListUsuParamBinding.java
  com.example.fatecmobile.databinding.ActivityListUsuParamBinding
-com/example/fatecmobile/telas/terceiro/AddTerceiroActivity.java
- com.example.fatecmobile.telas.terceiro.AddTerceiroActivity
- com.example.fatecmobile.telas.terceiro.AddTerceiroActivity$1
+com/example/fatecmobile/dbs/ControllerUsuario.java
+ com.example.fatecmobile.dbs.ControllerUsuario
 com/example/fatecmobile/modelos/TerceiroBean.java
  com.example.fatecmobile.modelos.TerceiroBean
 com/example/fatecmobile/databinding/ActivityUptUsuBinding.java
  com.example.fatecmobile.databinding.ActivityUptUsuBinding
 com/example/fatecmobile/modelos/UsuarioBean.java
  com.example.fatecmobile.modelos.UsuarioBean
-com/example/fatecmobile/telas/usuario/ListUsuActivity.java
- com.example.fatecmobile.telas.usuario.ListUsuActivity
+com/example/fatecmobile/telas/terceiro/AddTerceiroActivity.java
+ com.example.fatecmobile.telas.terceiro.AddTerceiroActivity
+ com.example.fatecmobile.telas.terceiro.AddTerceiroActivity$1
+com/example/fatecmobile/telas/terceiro/ListTerceiroActivity.java
+ com.example.fatecmobile.telas.terceiro.ListTerceiroActivity
+com/example/fatecmobile/dbs/ControllerTerceiro.java
+ com.example.fatecmobile.dbs.ControllerTerceiro
+com/example/fatecmobile/telas/terceiro/ListTerceiroParamActivity.java
+ com.example.fatecmobile.telas.terceiro.ListTerceiroParamActivity
+ com.example.fatecmobile.telas.terceiro.ListTerceiroParamActivity$1
 com/example/fatecmobile/telas/terceiro/UptTerceiroActivity.java
  com.example.fatecmobile.telas.terceiro.UptTerceiroActivity
  com.example.fatecmobile.telas.terceiro.UptTerceiroActivity$1
  com.example.fatecmobile.telas.terceiro.UptTerceiroActivity$2
-com/example/fatecmobile/databinding/ActivityListTerceiroBinding.java
- com.example.fatecmobile.databinding.ActivityListTerceiroBinding
-com/example/fatecmobile/BuildConfig.java
- com.example.fatecmobile.BuildConfig
-com/example/fatecmobile/dbs/ControllerUsuario.java
- com.example.fatecmobile.dbs.ControllerUsuario

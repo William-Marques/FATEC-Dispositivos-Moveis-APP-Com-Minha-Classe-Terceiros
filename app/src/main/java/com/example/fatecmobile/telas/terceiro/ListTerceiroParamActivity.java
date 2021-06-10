@@ -37,7 +37,7 @@ public class ListTerceiroParamActivity extends AppCompatActivity implements Adap
         ListaDeAlunos.setOnItemLongClickListener(this); //
         final EditText nome = (EditText)findViewById(R.id.nome);
 
-        pesqTer = (Button) findViewById(R.id.btpesquisar);
+        pesqTer = (Button) findViewById(R.id.btpesquisarterceiro);
         pesqTer.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 String nomeString = nome.getText().toString();

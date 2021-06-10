@@ -25,94 +25,95 @@
 17-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:10:9-35
-19        android:theme="@style/Theme.FatecMobile" >
-19-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:11:9-49
-20        <activity
-20-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:12:9-15:77
-21            android:name="com.example.fatecmobile.telas.terceiro.UptTerceiroActivity"
-21-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:13:13-63
-22            android:label="@string/title_activity_upt_terceiro"
-22-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:14:13-64
-23            android:theme="@style/Theme.FatecMobile.NoActionBar" />
-23-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:15:13-65
-24        <activity
-24-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:16:9-19:68
-25            android:name="com.example.fatecmobile.telas.terceiro.ListTerceiroParamActivity"
-25-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:17:13-69
-26            android:label="@string/title_activity_list_terceiro_param"
-26-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:18:13-71
-27            android:theme="@style/Theme.FatecMobile.NoActionBar" />
-27-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:19:13-65
-28        <activity
-28-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:20:9-23:68
-29            android:name="com.example.fatecmobile.telas.terceiro.ListTerceiroActivity"
-29-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:21:13-64
-30            android:label="@string/title_activity_list_terceiro"
-30-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:22:13-65
-31            android:theme="@style/Theme.FatecMobile.NoActionBar" />
-31-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:23:13-65
-32        <activity
-32-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:24:9-27:68
-33            android:name="com.example.fatecmobile.telas.terceiro.AddTerceiroActivity"
-33-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:25:13-63
-34            android:label="@string/title_activity_add_terceiro"
-34-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:26:13-64
-35            android:theme="@style/Theme.FatecMobile.NoActionBar" />
-35-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:27:13-65
-36        <activity
-36-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:28:9-31:68
-37            android:name="com.example.fatecmobile.telas.usuario.UptUsuActivity"
-37-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:29:13-57
-38            android:label="@string/title_activity_upt_usu"
-38-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:30:13-59
-39            android:theme="@style/Theme.FatecMobile.NoActionBar" />
-39-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:31:13-65
-40        <activity
-40-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:32:9-35:68
-41            android:name="com.example.fatecmobile.telas.MenuActivity"
-41-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:33:13-47
-42            android:label="@string/title_activity_menu"
-42-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:34:13-56
-43            android:theme="@style/Theme.FatecMobile.NoActionBar" />
-43-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:35:13-65
-44        <activity
-44-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:36:9-39:68
-45            android:name="com.example.fatecmobile.telas.usuario.ListUsuParamActivity"
-45-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:37:13-63
-46            android:label="@string/title_activity_list_usu_param"
-46-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:38:13-66
-47            android:theme="@style/Theme.FatecMobile.NoActionBar" />
-47-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:39:13-65
-48        <activity
-48-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:40:9-43:68
-49            android:name="com.example.fatecmobile.telas.usuario.ListUsuActivity"
-49-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:41:13-58
-50            android:label="@string/title_activity_list_usu"
-50-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:42:13-60
-51            android:theme="@style/Theme.FatecMobile.NoActionBar" />
-51-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:43:13-65
-52        <activity
-52-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:44:9-47:68
-53            android:name="com.example.fatecmobile.telas.usuario.AddUsuActivity"
-53-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:45:13-57
-54            android:label="@string/title_activity_add_usu"
-54-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:46:13-59
-55            android:theme="@style/Theme.FatecMobile.NoActionBar" />
-55-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:47:13-65
-56        <activity android:name="com.example.fatecmobile.telas.LoginActivity" >
-56-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:48:9-54:20
-56-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:48:19-54
-57            <intent-filter>
-57-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:49:13-53:29
-58                <action android:name="android.intent.action.MAIN" />
-58-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:50:17-69
-58-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:50:25-66
-59
-60                <category android:name="android.intent.category.LAUNCHER" />
-60-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:52:17-77
-60-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:52:27-74
-61            </intent-filter>
-62        </activity>
-63    </application>
-64
-65</manifest>
+19        android:testOnly="true"
+20        android:theme="@style/Theme.FatecMobile" >
+20-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:11:9-49
+21        <activity
+21-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:12:9-15:77
+22            android:name="com.example.fatecmobile.telas.terceiro.UptTerceiroActivity"
+22-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:13:13-63
+23            android:label="@string/title_activity_upt_terceiro"
+23-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:14:13-64
+24            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+24-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:15:13-65
+25        <activity
+25-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:16:9-19:68
+26            android:name="com.example.fatecmobile.telas.terceiro.ListTerceiroParamActivity"
+26-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:17:13-69
+27            android:label="@string/title_activity_list_terceiro_param"
+27-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:18:13-71
+28            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+28-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:19:13-65
+29        <activity
+29-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:20:9-23:68
+30            android:name="com.example.fatecmobile.telas.terceiro.ListTerceiroActivity"
+30-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:21:13-64
+31            android:label="@string/title_activity_list_terceiro"
+31-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:22:13-65
+32            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+32-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:23:13-65
+33        <activity
+33-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:24:9-27:68
+34            android:name="com.example.fatecmobile.telas.terceiro.AddTerceiroActivity"
+34-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:25:13-63
+35            android:label="@string/title_activity_add_terceiro"
+35-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:26:13-64
+36            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+36-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:27:13-65
+37        <activity
+37-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:28:9-31:68
+38            android:name="com.example.fatecmobile.telas.usuario.UptUsuActivity"
+38-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:29:13-57
+39            android:label="@string/title_activity_upt_usu"
+39-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:30:13-59
+40            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+40-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:31:13-65
+41        <activity
+41-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:32:9-35:68
+42            android:name="com.example.fatecmobile.telas.MenuActivity"
+42-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:33:13-47
+43            android:label="@string/title_activity_menu"
+43-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:34:13-56
+44            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+44-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:35:13-65
+45        <activity
+45-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:36:9-39:68
+46            android:name="com.example.fatecmobile.telas.usuario.ListUsuParamActivity"
+46-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:37:13-63
+47            android:label="@string/title_activity_list_usu_param"
+47-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:38:13-66
+48            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+48-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:39:13-65
+49        <activity
+49-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:40:9-43:68
+50            android:name="com.example.fatecmobile.telas.usuario.ListUsuActivity"
+50-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:41:13-58
+51            android:label="@string/title_activity_list_usu"
+51-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:42:13-60
+52            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+52-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:43:13-65
+53        <activity
+53-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:44:9-47:68
+54            android:name="com.example.fatecmobile.telas.usuario.AddUsuActivity"
+54-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:45:13-57
+55            android:label="@string/title_activity_add_usu"
+55-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:46:13-59
+56            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+56-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:47:13-65
+57        <activity android:name="com.example.fatecmobile.telas.LoginActivity" >
+57-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:48:9-54:20
+57-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:48:19-54
+58            <intent-filter>
+58-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:49:13-53:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:50:17-69
+59-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:50:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:52:17-77
+61-->D:\Meus-Projetos\FATEC-Dispositivos-Moveis-APP-Willam\app\src\main\AndroidManifest.xml:52:27-74
+62            </intent-filter>
+63        </activity>
+64    </application>
+65
+66</manifest>

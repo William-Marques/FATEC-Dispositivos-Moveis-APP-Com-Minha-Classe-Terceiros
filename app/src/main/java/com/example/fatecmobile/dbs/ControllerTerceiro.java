@@ -97,7 +97,7 @@ public class ControllerTerceiro {
         public List<TerceiroBean> listarTerceiros(TerceiroBean terEnt) {
         List<TerceiroBean> terceiros = new ArrayList<TerceiroBean>();
         String parametro = terEnt.getNome();
-        String selectQuery = "SELECT ID, NOME, DATANASCIMENTO, CFP, GENERO, ENDERECO, TELEFONE, EMAIL FROM TERCEIROS WHERE NOME LIKE ?" ;
+        String selectQuery = "SELECT ID, NOME, DATANASCIMENTO, CPF, GENERO, ENDERECO, TELEFONE, EMAIL FROM TERCEIROS WHERE NOME LIKE ?" ;
         String[] whereArgs = new String[] { "%" + parametro + "%"  };
         db = dbHelper.getWritableDatabase();
         Cursor cursor = db.rawQuery(selectQuery, whereArgs);
@@ -112,6 +112,7 @@ public class ControllerTerceiro {
                 ter.setEndereco(cursor.getString(5));
                 ter.setTelefone(cursor.getString(6));
                 ter.setEmail(cursor.getString(7));
+                terceiros.add(ter);
             } while (cursor.moveToNext());
         }
         return terceiros;

@@ -10,7 +10,7 @@ public class BancoHelper extends SQLiteOpenHelper {
     public static final String TABELAUSUARIOS = "USUARIOS";
     public static final String TABELATERCEIROS = "TERCEIROS";
 
-    private static final int VERSAO_SCHEMA = 1;
+    private static final int VERSAO_SCHEMA = 2;
     private final String S_CREATE;
     private final String S_CREATE2;
 
@@ -25,7 +25,7 @@ public class BancoHelper extends SQLiteOpenHelper {
         db.execSQL(S_CREATE);
         db.execSQL(S_CREATE2);
         db.execSQL("INSERT INTO USUARIOS values (1, 'will','','','')");
-        db.execSQL("INSERT INTO TERCEIROS values (1, 'Teste Terceiros')");
+        db.execSQL("INSERT INTO TERCEIROS values (1, 'Teste Terceiros','','','','','','')");
     }
 
     @Override

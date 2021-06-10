@@ -21,7 +21,7 @@ public final class ActivityListTerceiroParamBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
-  public final Button btpesquisar;
+  public final Button btpesquisarterceiro;
 
   @NonNull
   public final ListView listater;
@@ -30,9 +30,9 @@ public final class ActivityListTerceiroParamBinding implements ViewBinding {
   public final EditText nome;
 
   private ActivityListTerceiroParamBinding(@NonNull LinearLayout rootView,
-      @NonNull Button btpesquisar, @NonNull ListView listater, @NonNull EditText nome) {
+      @NonNull Button btpesquisarterceiro, @NonNull ListView listater, @NonNull EditText nome) {
     this.rootView = rootView;
-    this.btpesquisar = btpesquisar;
+    this.btpesquisarterceiro = btpesquisarterceiro;
     this.listater = listater;
     this.nome = nome;
   }
@@ -64,9 +64,9 @@ public final class ActivityListTerceiroParamBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.btpesquisar;
-      Button btpesquisar = rootView.findViewById(id);
-      if (btpesquisar == null) {
+      id = R.id.btpesquisarterceiro;
+      Button btpesquisarterceiro = rootView.findViewById(id);
+      if (btpesquisarterceiro == null) {
         break missingId;
       }
 
@@ -82,8 +82,8 @@ public final class ActivityListTerceiroParamBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityListTerceiroParamBinding((LinearLayout) rootView, btpesquisar, listater,
-          nome);
+      return new ActivityListTerceiroParamBinding((LinearLayout) rootView, btpesquisarterceiro,
+          listater, nome);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
