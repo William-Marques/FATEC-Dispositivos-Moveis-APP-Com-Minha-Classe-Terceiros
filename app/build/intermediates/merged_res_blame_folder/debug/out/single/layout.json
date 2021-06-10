@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list_usu.xml",
+        "source": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\src\\main\\res\\layout\\activity_list_usu.xml"
+    },
+    {
+        "merged": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list_terceiro.xml",
+        "source": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\src\\main\\res\\layout\\activity_list_terceiro.xml"
+    },
+    {
+        "merged": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_usu.xml",
+        "source": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\src\\main\\res\\layout\\activity_add_usu.xml"
+    },
+    {
+        "merged": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list_terceiro_param.xml",
+        "source": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\src\\main\\res\\layout\\activity_list_terceiro_param.xml"
+    },
+    {
+        "merged": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_upt_terceiro.xml",
+        "source": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\src\\main\\res\\layout\\activity_upt_terceiro.xml"
+    },
+    {
+        "merged": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_menu.xml",
+        "source": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list_usu_param.xml",
+        "source": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\src\\main\\res\\layout\\activity_list_usu_param.xml"
+    },
+    {
+        "merged": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_upt_usu.xml",
+        "source": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\src\\main\\res\\layout\\activity_upt_usu.xml"
+    },
+    {
+        "merged": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_terceiro.xml",
+        "source": "D:\\Meus-Projetos\\FATEC-Dispositivos-Moveis-APP-Willam\\app\\src\\main\\res\\layout\\activity_add_terceiro.xml"
+    }
+]

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fatecmobile">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FatecMobile">
+        <activity
+            android:name=".telas.terceiro.UptTerceiroActivity"
+            android:label="@string/title_activity_upt_terceiro"
+            android:theme="@style/Theme.FatecMobile.NoActionBar"></activity>
+        <activity
+            android:name=".telas.terceiro.ListTerceiroParamActivity"
+            android:label="@string/title_activity_list_terceiro_param"
+            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+        <activity
+            android:name=".telas.terceiro.ListTerceiroActivity"
+            android:label="@string/title_activity_list_terceiro"
+            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+        <activity
+            android:name=".telas.terceiro.AddTerceiroActivity"
+            android:label="@string/title_activity_add_terceiro"
+            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+        <activity
+            android:name=".telas.usuario.UptUsuActivity"
+            android:label="@string/title_activity_upt_usu"
+            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+        <activity
+            android:name=".telas.MenuActivity"
+            android:label="@string/title_activity_menu"
+            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+        <activity
+            android:name=".telas.usuario.ListUsuParamActivity"
+            android:label="@string/title_activity_list_usu_param"
+            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+        <activity
+            android:name=".telas.usuario.ListUsuActivity"
+            android:label="@string/title_activity_list_usu"
+            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+        <activity
+            android:name=".telas.usuario.AddUsuActivity"
+            android:label="@string/title_activity_add_usu"
+            android:theme="@style/Theme.FatecMobile.NoActionBar" />
+        <activity android:name=".telas.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

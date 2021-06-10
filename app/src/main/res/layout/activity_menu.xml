@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/lbUsuLogado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lbusuariologado"/>
+
+    <Button
+        android:id="@+id/btlistusu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btlistarTodos" />
+
+    <Button
+        android:id="@+id/btlistusuParam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btlistarParam" />
+
+    <Button
+        android:id="@+id/btnovousu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnovousu" />
+
+    <TextView
+        android:id="@+id/lbvazio1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""/>
+
+    <TextView
+        android:id="@+id/lbvazio2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""/>
+
+    <Button
+        android:id="@+id/btlistter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btlistarTodosTerceiros" />
+
+    <Button
+        android:id="@+id/btlistParamTerceiros"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btlistarParamTerceiros" />
+
+    <Button
+        android:id="@+id/btnovoter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnovoter" />
+
+</LinearLayout>

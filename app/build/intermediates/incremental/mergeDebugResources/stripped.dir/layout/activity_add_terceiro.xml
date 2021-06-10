@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbnome"/>
+    <EditText
+        android:id = "@+id/nome"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:inputType = "text" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbdatanascimento"/>
+    <EditText
+        android:id = "@+id/datanascimento"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:inputType = "text" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbcpf"/>
+    <EditText
+        android:id = "@+id/cpf"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:inputType = "text" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbgenero"/>
+    <EditText
+        android:id = "@+id/genero"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:inputType = "text" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbendereco"/>
+    <EditText
+        android:id = "@+id/endereco"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:inputType = "text" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbtelefone"/>
+    <EditText
+        android:id = "@+id/telefone"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:inputType = "text" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbemail"/>
+    <EditText
+        android:id = "@+id/email"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:inputType = "text" />
+    <Button
+        android:id = "@+id/btinserirterceiro"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:text = "@string/btinserir" />
+
+</LinearLayout>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lblogin"/>
+    <EditText
+        android:id = "@+id/login"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:inputType = "text" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbsenha"/>
+    <EditText
+        android:id = "@+id/senha"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:inputType = "textPassword" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbstatus"/>
+    <EditText
+        android:id = "@+id/status"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:inputType = "text" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbtipo"/>
+    <EditText
+        android:id = "@+id/tipo"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:inputType = "text" />
+    <Button
+        android:id = "@+id/btinserir"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:text = "@string/btinserir" />
+
+</LinearLayout>
+
