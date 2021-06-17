@@ -34,12 +34,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fb1c7b0-9b24-4dfc-915d-338fad1884b3" name="Default Changelist" comment="Atualizações diversas">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fatecmobile/dbs/BancoHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fatecmobile/dbs/BancoHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fatecmobile/dbs/ControllerTerceiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fatecmobile/dbs/ControllerTerceiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fatecmobile/telas/terceiro/ListTerceiroParamActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fatecmobile/telas/terceiro/ListTerceiroParamActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_list_terceiro_param.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_list_terceiro_param.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -247,6 +246,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Atualizações diversas" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1918" y="295" key="#Plugins" timestamp="1623875174929">
+      <screen x="1366" y="134" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="295" key="#Plugins/0.0.1366.728/1366.134.1920.1040@1366.134.1920.1040" timestamp="1623875174929" />
     <state x="2011" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1623271491836">
       <screen x="1366" y="-110" width="1680" height="1010" />
     </state>
@@ -266,10 +269,11 @@
     </state>
     <state x="1936" y="142" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.-110.1680.1010@1366.-110.1680.1010" timestamp="1623268303093" />
     <state x="463" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1623284900798" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1623282196712">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2017" y="304" key="FileChooserDialogImpl" timestamp="1623883128019">
+      <screen x="1366" y="134" width="1920" height="1040" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623282196712" />
+    <state x="2017" y="304" key="FileChooserDialogImpl/0.0.1366.728/1366.134.1920.1040@1366.134.1920.1040" timestamp="1623883128019" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623450394045" />
     <state x="2077" y="293" key="Github.ShareDialog" timestamp="1623272591199">
       <screen x="1366" y="-110" width="1680" height="1010" />
     </state>
